@@ -1,7 +1,7 @@
 Use 2 or more arrays to make a simulation of rain
 ====================
 
-In this assignment, you will make an animation of rain. Since rain is composed of many, many individual rain drops it's best to use arrays to keep track of the drops and their different properties. 
+In this assignment, you will make an animation of rain. Since rain is composed of many, many individual rain drops it's best to use arrays to keep track of the drops and their different properties. You may find [this video on the Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/arrays/pp/project-make-it-rain) helpful.
 
 Suggested steps for starting this assignment:
 -----------------------------------------------
