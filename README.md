@@ -1,3 +1,4 @@
+![](Rain.gif)
 Use 2 or more arrays to make a simulation of rain
 ====================
 
