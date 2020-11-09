@@ -13,7 +13,7 @@ let yPositions = [0];
 ```
 3. Add code in the `draw()` function to move and show your raindrop.
 4. Add more drops to the arrays. You could do that by using `append` with for a `loop` and `random()` function at the beginning of the program, or using an array modification method during animation. You could even add more drops in response to user interaction.
-5. Make the rain continuous by changing the position of each drop when it reaches one side of the canvas, using an `if` statement or `%` operator.
+5. Make the rain continuous by moving the position of each drop back to the top when it reaches the bottom of the canvas using an `if` statement.
 
 Optional Extensions
 ---------------------
