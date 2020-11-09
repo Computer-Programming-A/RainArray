@@ -19,7 +19,8 @@ Optional Extensions
 ---------------------
 * Make an array of colors, so that every drop is a different color, or an array of speeds.
 * Add a little bit of randomness so the drops "wiggle" back and forth as they fall
-* Make other things rain, like snowflakes (using more shape commands) or avatars (using the image commands). If you use multiple commands to draw whatever is raining down, consider creating a custom function with parameters instead. Have fun and be creative!
+* Make other things "rain", like snowflakes or any other shape. If you use multiple commands to draw whatever is raining down, consider creating a custom function with x and y arguments instead. 
+* Your rain simulation doesn't have to look or work like any other. Have fun and be creative!
 
 Samples of Student Work
 -----------------------
