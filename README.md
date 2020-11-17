@@ -27,5 +27,5 @@ Samples of Student Work
 [Ben](https://editor.p5js.org/bewong4/present/YfUA_Ey9p)      
    
       
-*This assignment is based on a Khan Academy computer science project*         
+*This assignment is based on a [Khan Academy computer science project](https://www.khanacademy.org/computing/computer-programming/programming/arrays/pp/project-make-it-rain)*         
 
