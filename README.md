@@ -24,7 +24,7 @@ Optional Extensions
 
 Samples of Student Work
 -----------------------
-None yet!    
+[Ben](https://editor.p5js.org/bewong4/present/YfUA_Ey9p)      
    
       
 *This assignment is based on a Khan Academy computer science project*         
