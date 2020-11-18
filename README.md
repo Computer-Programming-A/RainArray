@@ -1,7 +1,7 @@
 Use 2 or more arrays to make a simulation of rain
 ====================
 ![](Rain.gif)   
-In this assignment, you will make an animation of rain. Since rain is composed of many, many individual rain drops it's best to use arrays to keep track of the drops and their different properties. You may find slides 363 - 398 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in completing this assignment.
+In this assignment, you will make an animation of rain. Since rain is composed of many, many individual rain drops it's best to use arrays to keep track of the drops and their different properties. You may find slides 363 - 401 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in completing this assignment.
 
 Suggested steps for starting this assignment:
 -----------------------------------------------
@@ -19,7 +19,7 @@ Optional Extensions
 ---------------------
 * Make an array of colors, so that every drop is a different color, or an array of speeds.
 * Add a little bit of randomness so the drops "wiggle" back and forth as they fall
-* Make other things "rain", like snowflakes, characters (like [the Matrix](https://www.youtube.com/watch?v=kqUR3KtWbTk) movie) or any other shape. If you use multiple commands to draw whatever is raining down, consider creating a custom function with x and y arguments. 
+* Make other things "rain", like snowflakes, [characters](https://unicode-table.com/) (like [the Matrix](https://www.youtube.com/watch?v=kqUR3KtWbTk) movie) or any other shape. If you use multiple commands to draw whatever is raining down, consider creating a custom function with x and y arguments. 
 * Your rain simulation doesn't have to look or work like any other. Have fun and be creative!
 
 Samples of Student Work
