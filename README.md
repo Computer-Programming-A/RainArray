@@ -24,7 +24,9 @@ Optional Extensions
 
 Samples of Student Work
 -----------------------
-[Ben](https://editor.p5js.org/bewong4/present/YfUA_Ey9p)      
+[Ben](https://editor.p5js.org/bewong4/present/YfUA_Ey9p)    
+[Michelle](https://editor.p5js.org/michelle0/present/4P4Qu-yT9)   
+[Marissa](https://editor.p5js.org/maholmes/present/3m06nKRKf)   
    
       
 *This assignment is based on a [Khan Academy computer science project](https://www.khanacademy.org/computing/computer-programming/programming/arrays/pp/project-make-it-rain)*         
