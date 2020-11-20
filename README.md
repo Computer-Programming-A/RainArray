@@ -18,7 +18,7 @@ let yPositions = [0];
 Optional Extensions
 ---------------------
 * Make an array of colors, so that every drop is a different color, or an array of speeds.
-* Add a little bit of randomness so the drops "wiggle" back and forth as they fall
+* Add a little bit of randomness so the drops "wiggle" a bit as they fall
 * Make other things "rain", like snowflakes, [characters](https://unicode-table.com/) (like [the Matrix](https://www.youtube.com/watch?v=kqUR3KtWbTk) movie) or any other shape. If you use multiple commands to draw whatever is raining down, consider creating a custom function with x and y arguments. 
 * Your rain simulation doesn't have to look or work like any other. Have fun and be creative!
 
