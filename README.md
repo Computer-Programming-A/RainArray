@@ -1,6 +1,5 @@
 Use 2 or more arrays to make a simulation of rain
-====================
-![](Rain.gif)   
+==================== 
 In this assignment, you will make an animation of rain. Since rain is composed of many, many individual rain drops it's best to use arrays to keep track of the drops and their different properties. You may find slides 363 - 401 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in completing this assignment.
 
 Suggested steps for starting this assignment:
@@ -20,13 +19,25 @@ Optional Extensions
 * Make an array of colors, so that every drop is a different color, or an array of speeds.
 * Add a little bit of randomness so the drops "wiggle" a bit as they fall
 * Make other things "rain", like snowflakes, [characters](https://unicode-table.com/) (like [the Matrix](https://www.youtube.com/watch?v=kqUR3KtWbTk) movie) or any other shape. If you use multiple commands to draw whatever is raining down, consider creating a custom function with x and y arguments. 
-* Your rain simulation doesn't have to look or work like any other. Have fun and be creative!
+* Your rain simulation doesn't have to look or work like any other. Look at the samples of student work for ideas. Have fun and be creative!
 
 Samples of Student Work
 -----------------------
+[Jason](https://editor.p5js.org/jawong32/present/R499Ja2oK)   
+[Michelle](https://editor.p5js.org/michelle0/present/4P4Qu-yT9)    
+[Tobias](https://editor.p5js.org/tozuercher/present/E57V5LADh)   
+[Kami](https://editor.p5js.org/kawang7/present/X6ZUwXJXd)   
+[Elvin](https://editor.p5js.org/elli1/present/kNo7XO6T2)   
+[Irisa](https://editor.p5js.org/irchu1/present/FkLzNribp)   
+[Michael](https://editor.p5js.org/mimui/present/Gw8MZ2FAx)   
+[Melissa](https://editor.p5js.org/metam3/present/ctKyOoo5Z)   
 [Ben](https://editor.p5js.org/bewong4/present/YfUA_Ey9p)    
-[Michelle](https://editor.p5js.org/michelle0/present/4P4Qu-yT9)   
+[Tyler](https://editor.p5js.org/tylee2/present/wrO28FOcH)   
 [Marissa](https://editor.p5js.org/maholmes/present/3m06nKRKf)   
+[Rachel](https://editor.p5js.org/raroyer/present/zc7CyH8Tt)   
+[Karla](https://editor.p5js.org/kanguyen/present/A4ceHiL_N)   
+[Tuan](https://editor.p5js.org/tuduong1/present/Tn03zZ_MJ)   
+[Azalea](https://editor.p5js.org/Azalea/present/Z5sVVRCZi)   
    
       
 *This assignment is based on a [Khan Academy computer science project](https://www.khanacademy.org/computing/computer-programming/programming/arrays/pp/project-make-it-rain)*         
