@@ -23,9 +23,12 @@ Optional Extensions
 
 Samples of Student Work
 -----------------------
+[Jennie](https://editor.p5js.org/jilin20/present/X8a1q4YRp)   
+[Christina](https://editor.p5js.org/chchan10/present/YgRjjan8E)   
 [Sally](https://editor.p5js.org/sahong3/present/WUN2K9US8)   
 [Jason](https://editor.p5js.org/jawong32/present/R499Ja2oK)   
 [Michelle](https://editor.p5js.org/michelle0/present/4P4Qu-yT9)    
+[Abigail](https://editor.p5js.org/abupton/present/BdmAYYdZc)   
 [Tobias](https://editor.p5js.org/tozuercher/present/E57V5LADh)   
 [Kami](https://editor.p5js.org/kawang7/present/X6ZUwXJXd)   
 [Elvin](https://editor.p5js.org/elli1/present/kNo7XO6T2)   
