@@ -29,6 +29,7 @@ Samples of Student Work
 [Sally](https://editor.p5js.org/sahong3/present/WUN2K9US8)   
 [Jason](https://editor.p5js.org/jawong32/present/R499Ja2oK)   
 [Michelle](https://editor.p5js.org/michelle0/present/4P4Qu-yT9)    
+[Cameron](https://editor.p5js.org/canguyen1/present/yZlI52ZpR)   
 [Keneth](https://editor.p5js.org/kelee20/present/_xw8d2B-p)   
 [Eliot](https://editor.p5js.org/elchen/present/5NuEKVqZ3)   
 [Robin](https://editor.p5js.org/rowin/present/Qxar0uiJ5)   
