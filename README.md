@@ -24,7 +24,7 @@ Optional Extensions
 Samples of Student Work
 -----------------------
 [Jennie](https://editor.p5js.org/jilin20/present/X8a1q4YRp)   
-[Supath](https://editor.p5js.org/sugurung/full/BMoS2r4jh)   
+[Supath](https://editor.p5js.org/sugurung/present/BMoS2r4jh)   
 [Justin](https://editor.p5js.org/juwu14/present/tc5mrsX36)   
 [Christina](https://editor.p5js.org/chchan10/present/YgRjjan8E)   
 [Juan](https://editor.p5js.org/jucalvohuerta/present/4tpWriGlj)   
