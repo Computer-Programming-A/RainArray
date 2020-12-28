@@ -23,6 +23,7 @@ Optional Extensions
 
 Samples of Student Work
 -----------------------
+[Celine](https://editor.p5js.org/ceyuen/present/WuiiCV97b)   
 [Joanne](https://editor.p5js.org/joguan/present/38dB5dKKS)   
 [Naomi](https://editor.p5js.org/nakung/present/AlAFUQBlo)   
 [Jennie](https://editor.p5js.org/jilin20/present/X8a1q4YRp)   
