@@ -19,7 +19,7 @@ Optional Extensions
 * Make an array of colors, so that every drop is a different color, or an array of speeds.
 * Add a little bit of randomness so the drops "wiggle" a bit as they fall
 * Make other things "rain", like snowflakes, [characters](https://unicode-table.com/) (like [the Matrix](https://www.youtube.com/watch?v=kqUR3KtWbTk) movies), balloons, bubbles or any other shape. If you use multiple commands to draw whatever is raining down, consider creating a custom function with x and y arguments. 
-* You could make your simulation into a raindrop catching game, and remove the raindrops with the [splice](https://p5js.org/reference/#/p5/splice) function when they are caught.
+* You could make your simulation into a raindrop catching game, and remove the raindrops with the [splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) function when they are caught.
 * Your rain simulation doesn't have to look or work like any other. Look at the samples of student work below for ideas. Have fun and be creative!
 
 Samples of Student Work
