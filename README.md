@@ -33,6 +33,7 @@ Samples of Student Work
 [Noah](https://editor.p5js.org/BiZaark/full/_4OQGMbxV)   
 [Andrei](https://editor.p5js.org/anliterato/full/kI2Mna8tK)   
 [Justin](https://editor.p5js.org/Daqk1/full/25wqYgJTv)   
+[Kathleen](https://editor.p5js.org/kaban/full/v01i-375d)   
 [Kaitlyn](https://editor.p5js.org/kaluu/full/kf_JioX0x)   
 [Ally](https://editor.p5js.org/alzhao/full/4sLTbneXrG)   
 [Brendan](https://editor.p5js.org/brkanaley/full/LTt6vKnOe)   
